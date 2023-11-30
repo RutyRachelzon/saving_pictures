@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ciIeUNOekvVliFzx1OFYrRcLNE2UpC1J9nVWJbL/sjXLgcHIsom0uP/MjxyvoJOlJ5hpbPL2X5hPv28gEzW1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rach\\Desktop\\task_ruty\\SavingPictures\\DL\\DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rach\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

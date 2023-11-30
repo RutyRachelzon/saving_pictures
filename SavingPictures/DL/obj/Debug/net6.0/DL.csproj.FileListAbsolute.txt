@@ -1,0 +1,15 @@
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\bin\Debug\net6.0\DL.deps.json
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\bin\Debug\net6.0\DL.dll
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\bin\Debug\net6.0\DL.pdb
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.csproj.AssemblyReference.cache
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.AssemblyInfoInputs.cache
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.AssemblyInfo.cs
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.dll
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\refint\DL.dll
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.pdb
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\ref\DL.dll
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\bin\Debug\net6.0\Entities.dll
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\bin\Debug\net6.0\Entities.pdb
+C:\Users\Rach\Desktop\task_ruty\SavingPictures\DL\obj\Debug\net6.0\DL.csproj.CopyComplete

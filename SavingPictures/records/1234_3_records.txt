@@ -1,0 +1,6 @@
+collectionID: 1234,
+ title: 3 photographs of Yehuda Hershkowitz and his family.,
+ picture name: 3,
+ picture url: C:\Users\Rach\Desktop\task_ruty\SavingPictures\SavingPictures\..\images\1234\3.jpg,
+ back name: 3_xx,
+ back url: images\1234\3.jpg_xx
