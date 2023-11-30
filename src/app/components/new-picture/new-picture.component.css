@@ -1,0 +1,29 @@
+/* Add some spacing between form elements */
+form>div {
+    margin-bottom: 20px;
+}
+
+mat-card {
+    margin-top: 200px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the labels for input fields */
+mat-form-field label {
+    color: #007BFF;
+    font-size: 16px;
+}
+
+/* Style the input fields */
+mat-form-field input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Style the checkbox */
+.mat-checkbox {
+    margin-top: 8px;
+}

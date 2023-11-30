@@ -1,0 +1,45 @@
+mat-card {
+  margin-top: 200px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#idInput{
+  width: auto;
+}
+
+#nameInput{
+  width: 100%;
+}
+
+mat-card-header {
+  background-color: #007BFF;
+  color: #fff;
+}
+
+mat-card-title {
+  font-size: 24px;
+}
+
+mat-card-subtitle {
+  font-size: 16px;
+}
+
+mat-card-content {
+  padding: 16px;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+input.mat-input {
+  font-size: 16px;
+}
+
+button.mat-raised-button {
+  background-color: #28a745;
+  color: #fff;
+}

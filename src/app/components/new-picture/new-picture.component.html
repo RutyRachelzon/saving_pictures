@@ -1,0 +1,40 @@
+<mat-card>
+    <form [formGroup]="form">
+        <div>
+            <mat-form-field>
+                <label for="pictureName">Picture Name:</label>
+                <input id="pictureName" matInput type="text" formControlName="pictureName" />
+            </mat-form-field>
+        </div>
+
+        <div>
+            <mat-form-field>
+                <label for="pictureUrl">Picture URL:</label>
+                <input id="pictureUrl" matInput type="text" formControlName="pictureUrl" />
+            </mat-form-field>
+        </div>
+
+        <div>
+            <mat-checkbox [formControl]="getBackImgControl()">Back Image</mat-checkbox>
+        </div>
+
+        <div *ngIf="form.get('backImg')?.value">
+            <mat-form-field>
+                <label for="backPictureName">Back Picture Name:</label>
+                <input id="backPictureName" matInput type="text" formControlName="backPictureName" />
+            </mat-form-field>
+        </div>
+
+        <div *ngIf="form.get('backImg')?.value">
+            <mat-form-field>
+                <label for="backPictureUrl">Back Picture URL:</label>
+                <input id="backPictureUrl" matInput type="text" formControlName="backPictureUrl" />
+            </mat-form-field>
+        </div>
+
+        <!-- <mat-card-actions *ngIf="deleteButton">
+        <button mat-button (click)="deletePicture()">delete</button>
+    </mat-card-actions> -->
+
+    </form>
+</mat-card>
